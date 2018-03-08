@@ -17,7 +17,7 @@
   "resources": "MyFramework/Assets/**/*",
   "dependencies": {
     "RxSwift": [
-      "~> 3.0"
+      "~> 4.1.2"
     ]
   }
 }

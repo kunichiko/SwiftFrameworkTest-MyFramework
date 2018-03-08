@@ -32,5 +32,5 @@ This pod is MyFramework.
   
   s.resources = 'MyFramework/Assets/**/*'
 
-  s.dependency 'RxSwift', '~> 3.0'
+  s.dependency 'RxSwift', '~> 4.1.2'
 end

@@ -1,7 +1,7 @@
 PODS:
   - MyFramework (0.1.0):
-    - RxSwift (~> 3.0)
-  - RxSwift (3.6.1)
+    - RxSwift (~> 4.1.2)
+  - RxSwift (4.1.2)
 
 DEPENDENCIES:
   - MyFramework (from `../../`)
@@ -11,8 +11,8 @@ EXTERNAL SOURCES:
     :path: ../../
 
 SPEC CHECKSUMS:
-  MyFramework: 7f0ee75d360edb5763f8b0bca368a9be4a43a446
-  RxSwift: f9de85ea20cd2f7716ee5409fc13523dc638e4e4
+  MyFramework: eb946304f7e2fbefbb132b637a679006cdbacd8f
+  RxSwift: e49536837d9901277638493ea537394d4b55f570
 
 PODFILE CHECKSUM: f797fa475e0c8f78f6efe3c4be4dbbd87a0ae87a
 
