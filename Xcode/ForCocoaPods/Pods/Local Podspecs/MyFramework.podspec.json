@@ -1,0 +1,23 @@
+{
+  "name": "MyFramework",
+  "version": "0.1.0",
+  "summary": "MyFramework for test",
+  "description": "This pod is MyFramework.",
+  "homepage": "https://github.com/kunichiko/SwiftFrameworkTest-MyFramework",
+  "license": "MIT",
+  "authors": "Kunihiko Ohnaka",
+  "source": {
+    "git": "https://github.com/kunichiko/SwiftFrameworkTest-MyFramework.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "MyFramework/Classes/**/*",
+  "resources": "MyFramework/Assets/**/*",
+  "dependencies": {
+    "RxSwift": [
+      "~> 3.0"
+    ]
+  }
+}
